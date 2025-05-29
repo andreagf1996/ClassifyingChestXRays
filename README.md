@@ -1,6 +1,6 @@
 # ClassifyingChestXRays
 
-The Chest X-ray image dataset can be found [here]([url](https://data.mendeley.com/datasets/rscbjbr9sj/2)).
+The Chest X-ray image dataset can be found at https://data.mendeley.com/datasets/rscbjbr9sj/2.
 
 In this project, I aimed to develop a neural network which could accurately predict whether the x-ray indicaed the patient was normal or had pneumonia. 
 
